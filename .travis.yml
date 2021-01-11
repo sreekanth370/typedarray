@@ -8,8 +8,8 @@ node_js:
 
 matrix:
   exclude:
-    -arch: ppc64le
+    - arch: ppc64le
       - node_js: '0.10'
-    -arch: ppc64le
+    - arch: ppc64le
       - node_js: '0.12'
       
